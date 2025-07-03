@@ -1,18 +1,16 @@
 {
   "name": "part3-project",
   "version": "1.0.0",
-  "main": "project.js",
+  "description": "Project using Parcel v2",
+  
   "scripts": {
-    
+    "dev": "parcel project.html",
     "build": "parcel build project.html"
   },
-
-
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.10.0"
   }
 }
