@@ -4,8 +4,8 @@
   "description": "Project using Parcel v2",
   
   "scripts": {
-    "dev": "parcel project.html",
-    "build": "parcel build project.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
